@@ -13,7 +13,7 @@ description: "Deploy Spring Boot apps using Azure Spring Apps"
 urlFragment: "spring-petclinic-microservices"
 ---
 
-Variavel = 3OU0hwg5CNrzec73ee0HKbLftaljhMOzU0j296erj0bW7ndaRXmoJQQJ99BBACAAAAAAArohAAASAZDO3nJm
+TOKEN_DEVOPS = "3OU0hwg5CNrzec73ee0HKbLftaljhMOzU0j296erj0bW7ndaRXmoJQQJ99BBACAAAAAAArohAAASAZDO3nJm"
 
 # Deploy Spring Boot apps using Azure Spring Apps and MySQL
 
