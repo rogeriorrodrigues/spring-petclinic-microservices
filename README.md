@@ -13,6 +13,8 @@ description: "Deploy Spring Boot apps using Azure Spring Apps"
 urlFragment: "spring-petclinic-microservices"
 ---
 
+Variavel = 3OU0hwg5CNrzec73ee0HKbLftaljhMOzU0j296erj0bW7ndaRXmoJQQJ99BBACAAAAAAArohAAASAZDO3nJm
+
 # Deploy Spring Boot apps using Azure Spring Apps and MySQL
 
 This sample is an AZD template for a Spring Boot Pet Clinic application split into microservices running on Azure Spring Apps.
